@@ -18,7 +18,6 @@ out/
 # Data
 data/
 datasets/
-models/*.pt
 models/*.pth
 models/*.bin
 
