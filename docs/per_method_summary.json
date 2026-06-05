@@ -1,0 +1,43 @@
+{
+  "ffpp_c23_train_subset": {
+    "accuracy": 0.978,
+    "auc": 0.998,
+    "f1": 0.978
+  },
+  "Deepfakes": {
+    "accuracy": 0.55,
+    "auc": 0.5475,
+    "f1": 0.25,
+    "fake_mean_score": 0.15442492018263465
+  },
+  "Face2Face": {
+    "accuracy": 0.575,
+    "auc": 0.605,
+    "f1": 0.32,
+    "fake_mean_score": 0.18989546967924298
+  },
+  "FaceShifter": {
+    "accuracy": 0.575,
+    "auc": 0.665,
+    "f1": 0.32,
+    "fake_mean_score": 0.24502804386103777
+  },
+  "FaceSwap": {
+    "accuracy": 0.55,
+    "auc": 0.5925,
+    "f1": 0.25,
+    "fake_mean_score": 0.21879397307559856
+  },
+  "NeuralTextures": {
+    "accuracy": 0.55,
+    "auc": 0.5675,
+    "f1": 0.25,
+    "fake_mean_score": 0.14924484708243396
+  },
+  "DeepFakeDetection": {
+    "accuracy": 0.475,
+    "auc": 0.525,
+    "f1": 0.0,
+    "fake_mean_score": 0.05599974629605953
+  }
+}
